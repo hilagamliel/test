@@ -1,0 +1,27 @@
+
+#triangle-bottomright {
+        width: 0;
+        height: 0;
+        border-bottom: 139px solid white;
+        border-left: 1000px solid transparent;
+        position: absolute;
+        top: 33%;
+}
+#rectangle {
+        width: 1000px;
+        height: 200px;
+        background: red;
+}.btn{
+        position: relative;
+        top: 26%;
+        z-index: 100;
+        left: -31%;
+}.ui.segment {
+        position: relative;
+        background: #fff;
+        box-shadow: 0 0px 0px 0 rgb(0 0 0);
+        margin: 1rem 0;
+        padding: 1em 1em;
+        border-radius: 0rem;
+        border: 0px solid rgba(0,0,0,0);
+    }
